@@ -1,0 +1,4 @@
+After download, 
+run the following 
+command to generate 
+the license.
